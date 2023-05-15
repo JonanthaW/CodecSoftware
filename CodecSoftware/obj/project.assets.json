@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\CodecSoftware\\CodecSoftware.csproj",
+      "projectUniqueName": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\CodecSoftware.csproj",
       "projectName": "CodecSoftware",
-      "projectPath": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\CodecSoftware\\CodecSoftware.csproj",
+      "projectPath": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\CodecSoftware.csproj",
       "packagesPath": "C:\\Users\\jonan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\CodecSoftware\\obj\\",
+      "outputPath": "C:\\Users\\jonan\\OneDrive\\Área de Trabalho\\CodecSoftware\\CodecSoftware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

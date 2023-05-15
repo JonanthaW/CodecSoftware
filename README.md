@@ -15,7 +15,7 @@ Este script não deve ser utilizado em produção, existem maneiras melhores de 
 ### :bulb: Tela da aplicação:
 
 <p align="center">
-  <img src="https://github.com/JonanthaW/RandomFileCatBox/blob/main/assets/example1.png">
+  <img src="https://github.com/JonanthaW/RandomFileCatBox/blob/main/assets/example1.gif">
 </p>
 
 ### :computer: Baixando o conteúdo:
