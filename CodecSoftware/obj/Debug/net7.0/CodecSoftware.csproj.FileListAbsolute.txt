@@ -1,0 +1,15 @@
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\bin\Debug\net7.0\CodecSoftware.exe
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\bin\Debug\net7.0\CodecSoftware.deps.json
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\bin\Debug\net7.0\CodecSoftware.runtimeconfig.json
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\bin\Debug\net7.0\CodecSoftware.dll
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\bin\Debug\net7.0\CodecSoftware.pdb
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.csproj.AssemblyReference.cache
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.AssemblyInfoInputs.cache
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.AssemblyInfo.cs
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.csproj.CoreCompileInputs.cache
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.dll
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\refint\CodecSoftware.dll
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.pdb
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\CodecSoftware.genruntimeconfig.cache
+C:\Users\jonan\OneDrive\Área de Trabalho\CodecSoftware\CodecSoftware\CodecSoftware\obj\Debug\net7.0\ref\CodecSoftware.dll
